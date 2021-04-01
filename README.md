@@ -6,3 +6,11 @@
 
 🇨🇳 China Shenzhen・🕹 Web developer
 
+**This is my PHP extension package**
+
+- [php127/douyin](https://packagist.org/packages/php127/douyin)
+- [php127/websiteinfo](https://packagist.org/packages/php127/websiteinfo)
+- [zyan/web-link](https://packagist.org/packages/zyan/web-link)
+- [zyan/work-wechat](https://packagist.org/packages/zyan/zyan/work-wechat)
+- [zyan/captcha](https://packagist.org/packages/zyan/captcha)
+
