@@ -14,3 +14,6 @@
 - [zyan/work-wechat](https://packagist.org/packages/zyan/work-wechat)
 - [zyan/captcha](https://packagist.org/packages/zyan/captcha)
 
+**This is my java open source project**
+
+- [wework-msgaudit](https://github.com/aa24615/wework-msgaudit)
