@@ -13,6 +13,8 @@
 - [zyan/web-link](https://packagist.org/packages/zyan/web-link)
 - [zyan/work-wechat](https://packagist.org/packages/zyan/work-wechat)
 - [zyan/captcha](https://packagist.org/packages/zyan/captcha)
+- [zyan/baidu-zz-push](https://packagist.org/packages/zyan/baidu-zz-push)
+- [zyan/page](https://packagist.org/packages/zyan/page)
 
 **This is my java open source project**
 
