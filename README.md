@@ -20,7 +20,7 @@
 - [zyan/captcha](https://packagist.org/packages/zyan/captcha) 验证码
 - [zyan/baidu-zz-push](https://packagist.org/packages/zyan/baidu-zz-push) 百度推送
 - [zyan/page](https://packagist.org/packages/zyan/page) 简单分页
-- [zyan/page](https://packagist.org/packages/zyan/laravel-logs) 一laravel用户请求的日志中间件
+- [zyan/laravel-logs](https://packagist.org/packages/zyan/laravel-logs) 一laravel用户请求的日志中间件
 
 **web前端**
 
